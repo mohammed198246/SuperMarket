@@ -1,0 +1,8 @@
+FRM-30203: No items on block PK2.
+FRM-30203: No items on block EXPIRE.
+FRM-30407: Block must have at least one database item.
+Block: EXPIRE
+FRM-30113: Block must have non-query-only database item.
+Block: EXPIRE
+
+Created form file D:\sale\forms\item1.fmx

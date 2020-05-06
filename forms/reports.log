@@ -1,0 +1,83 @@
+alter table custmer add (address varchar2(100)) ;
+
+alter table ch add (dd number(6)) ;
+
+update ch set dd = 0 ;
+
+
+Starting report ch3 [Sat Mar 03 15:16:43 2018] ...
+End report ch3 [Sat Mar 03 15:17:31 2018].
+
+Starting report s_item_det [Sat Mar 03 15:18:17 2018] ...
+End report s_item_det [Sat Mar 03 15:18:30 2018].
+
+Starting report SANAD_CASH [Thu Mar 08 14:23:48 2018] ...
+End report SANAD_CASH [Thu Mar 08 14:23:57 2018].
+
+Starting report SANAD_CASH1 [Thu Mar 08 14:23:58 2018] ...
+End report SANAD_CASH1 [Thu Mar 08 14:24:25 2018].
+
+Starting report SANAD_CASH [Thu Mar 08 14:24:27 2018] ...
+End report SANAD_CASH [Thu Mar 08 14:24:31 2018].
+
+Starting report SANAD_CASH [Thu Mar 08 14:25:29 2018] ...
+End report SANAD_CASH [Thu Mar 08 14:25:31 2018].
+
+Starting report SANAD_CASH [Thu Mar 08 14:32:14 2018] ...
+End report SANAD_CASH [Thu Mar 08 14:32:18 2018].
+
+Starting report SANAD_CASH11 [Thu Mar 08 14:32:32 2018] ...
+End report SANAD_CASH11 [Thu Mar 08 14:32:36 2018].
+
+Starting report SANAD_sheek11 [Thu Mar 08 14:34:05 2018] ...
+End report SANAD_sheek11 [Thu Mar 08 14:34:09 2018].
+
+Starting report SANAD_CASH11 [Thu Mar 08 14:34:10 2018] ...
+End report SANAD_CASH11 [Thu Mar 08 14:34:12 2018].
+
+Starting report SANAD_sheek11 [Thu Mar 08 14:34:13 2018] ...
+End report SANAD_sheek11 [Thu Mar 08 14:34:17 2018].
+
+Starting report SANAD_cash11 [Thu Mar 08 14:34:40 2018] ...
+End report SANAD_cash11 [Thu Mar 08 14:34:50 2018].
+
+Starting report SANAD_cash11 [Thu Mar 08 14:36:30 2018] ...
+End report SANAD_cash11 [Thu Mar 08 14:39:08 2018].
+
+Starting report SANAD_sheek111 [Thu Mar 08 14:40:12 2018] ...
+End report SANAD_sheek111 [Thu Mar 08 14:40:26 2018].
+
+Starting report SANAD_CASH11 [Thu Mar 08 14:40:29 2018] ...
+End report SANAD_CASH11 [Thu Mar 08 14:40:32 2018].
+
+Starting report SANAD_CASH11 [Thu Mar 08 14:40:41 2018] ...
+End report SANAD_CASH11 [Thu Mar 08 14:40:52 2018].
+
+Starting report SANAD_CASH1 [Thu Mar 08 14:40:58 2018] ...
+End report SANAD_CASH1 [Thu Mar 08 14:41:18 2018].
+
+Starting report SANAD_CASH1 [Sun Nov 18 10:38:26 2018] ...
+REP-0108: File 'd:\1.jpg' not found.
+REP-0594: No report output generated.
+End report SANAD_CASH1 [Sun Nov 18 10:38:32 2018].
+
+Starting report SANAD_CASH1 [Sun Nov 18 10:38:34 2018] ...
+REP-0108: File 'd:\1.jpg' not found.
+REP-0594: No report output generated.
+End report SANAD_CASH1 [Sun Nov 18 10:38:36 2018].
+
+Starting report SANAD_CASH1 [Sun Nov 18 10:39:43 2018] ...
+End report SANAD_CASH1 [Sun Nov 18 10:39:48 2018].
+
+Starting report SANAD_CASH1 [Sun Nov 18 10:39:51 2018] ...
+End report SANAD_CASH1 [Sun Nov 18 10:39:53 2018].
+
+Starting report SANAD_total [Sun Nov 18 11:28:33 2018] ...
+End report SANAD_total [Sun Nov 18 11:28:35 2018].
+
+Starting report SANAD_total [Sun Nov 18 11:28:45 2018] ...
+End report SANAD_total [Sun Nov 18 11:28:47 2018].
+
+Starting report ch_buy [Mon Nov 26 20:40:36 2018] ...
+REP-1401: 'cf_10formula': Fatal PL/SQL error occurred.
+End report ch_buy [Mon Nov 26 20:40:40 2018].

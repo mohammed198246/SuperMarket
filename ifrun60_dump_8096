@@ -1,0 +1,42 @@
+[04/22/19 20:14:41 Egypt Standard Time]::Client Status [ConnId=0, PID=8096]
+	>> ERROR: Abnormal termination, Error Code: C0000005 ACCESS_VIOLATION
+
+======================= STACK DUMP =======================
+
+Fault address:  00BF3370 01:000A2370
+Module: C:\dev\bin\PLS805.dll
+
+System Information:
+Operating System: Windows NT Version 6.2 Build 9200 
+Command line: IFDBG60 -SsL09@
+FORM/BLOCK/FIELD: CH:ITEM.BAR
+Last Trigger: WHEN-NEW-BLOCK-INSTANCE - (In Progress)
+Msg: <NULL>
+Last Builtin: GO_ITEM - (Successfully Completed)
+
+Registers:
+EAX:00000000
+EBX:03915850
+ECX:00000000
+EDX:038ABF78
+ESI:0019E5A0
+EDI:03871F3C
+CS:EIP:0023:00BF3370
+SS:ESP:002B:0019D890  EBP:0019D8B0
+DS:002B  ES:002B  FS:0053  GS:002B
+Flags:00010246
+
+
+Call stack:
+Address   Frame
+00BF3370  0019D8B0  0001:000A2370 C:\dev\bin\PLS805.dll
+00BB82B9  0019E9B0  0001:000672B9 C:\dev\bin\PLS805.dll
+00B6452A  0019EA18  0001:0001352A C:\dev\bin\PLS805.dll
+009FD777  0019EA7C  0001:0008C777 C:\dev\bin\DE60.dll
+74F572A0  0019EA9C  0001:000462A0 C:\Windows\System32\MSVCRT.dll
+67F2B7E6  0019EAB0  ss_mem_alc
+67593E25  0019EAD4  kghsmf
+67595B94  0019EAF4  kghalo
+675955D4  0019EB20  kghalo
+67594F8F  0019EB7C  kghalo
+

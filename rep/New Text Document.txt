@@ -1,0 +1,6 @@
+if :cust_type = 2 then 
+	insert into trans (esal_no,d_date) values (:pk.esal_no,:pk.d_date) ;
+	insert into trans_det (esal_no,d_date,s_no,acc_sub,sub_name,menh,laho,nots) values (:pk.esal_no,:pk.d_date,1,:acc_sub,:global.sub_name,:money,0,'??? ?? ?I????E'||' '||:cust_name) ;
+	insert into trans_det (esal_no,d_date,s_no,acc_sub,sub_name,menh,laho,nots) values (:pk.esal_no,:pk.d_date,2,1211,'C?I????',0,:money,'??? ?? ?I????E'||' '||:cust_name) ;
+	commit ;
+end if ;

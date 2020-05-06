@@ -1,0 +1,166 @@
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\dev\bin\ifbld60.exe)(HOST=DESKTOP-HATGQIN)(USER=?????))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 12-JUL-19 12:44:37
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS:unable to connect to destination
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\dev\bin\ifbld60.exe)(HOST=DESKTOP-HATGQIN)(USER=?????))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 12-JUL-19 12:51:12
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS:unable to connect to destination
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=hp-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\dev\bin\ifbld60.exe)(HOST=DESKTOP-HATGQIN)(USER=?????))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 12-JUL-19 12:51:17
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12206
+    TNS-12206: TNS:received a TNS error during navigation
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=hp-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\dev\bin\ifbld60.exe)(HOST=DESKTOP-HATGQIN)(USER=?????))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 12-JUL-19 12:51:24
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12206
+    TNS-12206: TNS:received a TNS error during navigation
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\dev\bin\ifbld60.exe)(HOST=DESKTOP-HATGQIN)(USER=?????))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 12-JUL-19 14:36:58
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS:unable to connect to destination
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\dev\bin\ifbld60.exe)(HOST=DESKTOP-HATGQIN)(USER=?????))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 08-SEP-19 16:25:36
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS:unable to connect to destination
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\dev\bin\ifbld60.exe)(HOST=DESKTOP-DEPF5FP)(USER=m))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 19-NOV-19 12:47:32
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS:unable to connect to destination
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=c:\DevSuiteHome_2\bin\frmbld.exe)(HOST=DESKTOP-AE0V13M)(USER=accc1))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.4.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.4.0 - Production
+  Time: 29-MAR-2020 21:57:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
